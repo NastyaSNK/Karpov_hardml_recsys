@@ -1,2 +1,2 @@
-# Karpov_hardml_recsys
+# Karpov hardml recsys
 ДЗ курса
