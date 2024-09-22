@@ -1,5 +1,6 @@
 # Karpov hardml recsys
-ДЗ курса
+ДЗ курса:
+
 [hw_1 - Рекомендательные системы. Применение и основные концепции](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_1)\
 [hw_2 - Простые решения. CONTENT-BASED рекомендации](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_2)\
 [hw_3 - Коллаборативная фильтрация. Офлайн-метрики и валидация](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_3)\
