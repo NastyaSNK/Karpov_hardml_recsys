@@ -8,5 +8,5 @@
 [hw_6 - Модели глубокого обучения. DSSM, SASREC/BERT4REC, MULTVAE, MERLIN](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_6)\
 [hw_7 - Графовые нейросети для рекомендательных систем ](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_7)\
 [hw_8 - Использование алгоритмов обучения с подкреплением](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_8)\
-[hw_9 - Использование модели ранжирования](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_9)
-[hw_10 - Финальный проект](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_10)
+[hw_9 - Использование модели ранжирования](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_9)\
+[hw_11 - Финальный проект. Сервис рекомендаций](https://github.com/NastyaSNK/Karpov_hardml_recsys/tree/master/hw_10)
